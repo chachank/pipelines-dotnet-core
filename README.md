@@ -41,4 +41,4 @@ Testing a new fix for new work item.
 
 New Commit
 
-We will fix some files here and commit.
+[![Board Status](https://dev.azure.com/shashankamin0391/32498a05-dca7-49b7-bf8d-1d96e369d73f/c21ec5b1-aa8c-446c-9c1a-f3a8e975b72b/_apis/work/boardbadge/83bef6ff-8f21-46f4-96f1-921efd860640?columnOptions=1)](https://dev.azure.com/shashankamin0391/32498a05-dca7-49b7-bf8d-1d96e369d73f/_boards/board/t/c21ec5b1-aa8c-446c-9c1a-f3a8e975b72b/Microsoft.RequirementCategory/)
