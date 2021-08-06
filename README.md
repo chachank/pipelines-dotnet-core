@@ -40,3 +40,5 @@ Testing for automatic trigger.
 Testing a new fix for new work item.
 
 New Commit
+
+We will fix some files here and commit.
